@@ -1,0 +1,19 @@
+/* Read me file begin */ 
+
+	The main objective of this application is to convert currency of home country to currency of foreign country using yahoo api.
+There is 3 views.
+1st view: 
+  In the 1st view user can select home and foreign country from picker view and the enter the amount in textfield. It will convert the currency from home currency to foreign currency using current exchange rate. The currency exchange rate is store for 25 seconds. After 25 second an update method is called, it updates the exchange rate. There is also refresh button which refresh the exchange rate. It also saves the exchange rate to the disk and loads up the exchange rate that are already fetched from yahoo api.
+
+2nd view:
+   In the 2nd view user can select the 1or more currency to add into favorite currency list.
+
+3rd view:
+
+In the 3rd view user can see his/her favorite currency list. It also save and loads up the favorite currency list to/from disk.
+
+
+
+
+
+/* Read me file end */
